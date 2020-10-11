@@ -1,0 +1,22 @@
+{
+  "name": "pgaAirtable",
+  "version": "14.0.0",
+  "description": "PGA Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmacdonald/PGAProjectv2.git"
+  },
+  "author": "Chris Maconald <chrismacdonald@wustl.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chmacdonald/PGAProjectv2/issues"
+  },
+  "homepage": "https://github.com/chmacdonald/PGAProjectv2#readme",
+  "dependencies": {
+    "airtable": "^0.8.1"
+  }
+}
